@@ -6,4 +6,4 @@ It is a program to recruit and train developers in Plutus for the Cardano ecosys
 
 ### Lectures
 
-[Week 01]()
+[Week 01](https://github.com/Vielhammer/plutus-pioneer-docs/blob/master/week01/week01.md)
