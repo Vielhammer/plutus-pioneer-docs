@@ -32,7 +32,7 @@ Unlike traditional banking that flows from account to account, the UTxO model fl
 <br>
 
 ### UTxO Example with Two Inputs
-<img src="https://github.com/Vielhammer/plutus-pioneer-docs/blob/master/week01/images/image-20210918195543160.png" alt="image-20210918195543160" style="width:200px; height: 300" />
+<img src="https://github.com/Vielhammer/plutus-pioneer-docs/blob/master/week01/images/image-20210918195543160.png" alt="image-20210918195543160" style="width:300px; height: 400" />
 
 In the example above, Alice has 100 ada, and Bob has 50 ada. Alice wants to send 10 of her ada to Bob.  Each transaction will always have inputs and outputs. However, only completed UTxO's can be inputs. For example, Alice cannot split her 100 ada into 90 and 10. She has to use the full UTxO of 100 ada as the input. 
 
