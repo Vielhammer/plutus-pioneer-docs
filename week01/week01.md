@@ -28,7 +28,7 @@ Unlike traditional banking that flows from account to account, the UTxO model fl
 
 >  *Bitcoin uses the UTxO model.*
 
-
+<br>
 
 ### UTxO Example with Two Inputs
 <img src="https://github.com/Vielhammer/plutus-pioneer-docs/blob/master/week01/images/image-20210918195543160.png" alt="image-20210918195543160" style="zoom:25%;" />
