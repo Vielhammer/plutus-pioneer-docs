@@ -1,4 +1,4 @@
-# Plutus Pioneer Program: Lecture 1
+# Plutus Pioneer Program: [Lecture 1](https://youtu.be/_zr3W8cgzIQ)
 
 Plutus is a functional development platform for distributed contract applications on the Cardano blockchain. It provides considerable security advantages by validating the contract off-chain before it moves on-chain. Plutus offers a new approach with both the on and off-chain code written in the same language.
 
